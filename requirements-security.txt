@@ -1,0 +1,6 @@
+# Tooling the security pipeline installs in CI.
+# The DAST scanner needs requests + beautifulsoup4; the rest are the SAST/SCA tools.
+bandit==1.7.9
+pip-audit==2.7.3
+requests>=2.31
+beautifulsoup4>=4.12
