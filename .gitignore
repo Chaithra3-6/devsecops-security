@@ -1,0 +1,9 @@
+bandit.json
+pip-audit.json
+gitleaks.json
+trivy.json
+dast-report.json
+security-report.json
+security-report.html
+__pycache__/
+*.pyc
